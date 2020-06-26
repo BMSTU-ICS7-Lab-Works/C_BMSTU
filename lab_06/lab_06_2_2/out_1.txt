@@ -1,0 +1,4 @@
+Result: stuck no
+in yes
+a yes
+corner no
