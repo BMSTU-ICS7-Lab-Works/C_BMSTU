@@ -1,0 +1,4 @@
+Enter M and N:
+2 2
+Enter matr row: 1 2
+Enter matr row: 3 2.2

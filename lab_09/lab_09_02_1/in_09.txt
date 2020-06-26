@@ -1,0 +1,2 @@
+Enter M and N:
+-2
