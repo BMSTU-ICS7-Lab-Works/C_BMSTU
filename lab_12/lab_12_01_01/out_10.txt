@@ -1,0 +1,11 @@
+Task A result: 72
+
+Task B result list:
+16 3  4 1
+
+Task C result list:
+4 4  2 2  1 1  1 0
+
+There is no odd numbers in polynome
+
+List even:4 4  2 2

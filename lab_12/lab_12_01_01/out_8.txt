@@ -1,0 +1,8 @@
+Task A result: 2
+
+Task C result list:
+2 2  3 0
+
+There is no odd numbers in polynome
+
+List even:2 0

@@ -1,0 +1,12 @@
+Task A result: 11
+
+Task B result list:
+4 1  1 0
+
+Task C result list:
+3 4  3 3  5 2  1 1  1 0
+
+List odd:1 1
+
+
+List even:2 2  1 0

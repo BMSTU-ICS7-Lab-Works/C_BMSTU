@@ -1,0 +1,11 @@
+Task A result: 2
+
+Task B result list:
+1 0
+
+Task C result list:
+2 2  1 1  2 0
+
+List odd:1 1
+
+There is no even numbers in polynome
