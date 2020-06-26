@@ -1,0 +1,10 @@
+Tanyua
+female
+1990.10.01
+3 2 2 5
+Karen
+female
+2000.01.05
+2 2 2
+nobody
+SURNAME

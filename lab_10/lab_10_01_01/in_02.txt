@@ -1,0 +1,14 @@
+Sanya
+male
+2002.02.02
+3 5 5 5
+Tanyua
+female
+2004.10.01
+3 2 2 5
+Karen
+female
+2012.01.05
+2 2 2
+nobody
+SURNAME

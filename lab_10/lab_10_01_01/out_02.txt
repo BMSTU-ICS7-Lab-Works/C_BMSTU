@@ -1,0 +1,12 @@
+Karen
+female
+2012.01.05
+3 2 2 3 
+Sanya
+male
+2002.02.02
+4 5 5 5 3 
+Tanyua
+female
+2004.10.01
+4 2 2 5 3 
